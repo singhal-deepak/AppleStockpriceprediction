@@ -1,7 +1,7 @@
-# Apple Stock price prediction
+# Recommended top 10 movies to the user - PySpark
 
-Forecasted the trend of stock price of Apple - Python
+●	Built a recommender system in python using Spark’s Alternate Least Square Method for Collaborative filtering on a dataset containing 25M movie ratings from 160K users on Movielens portal.
 
-●	Developed a regression model using 10 years of daily fluctuations (opening, closing, highest, and lowest of each day) of stock prices of Apple.
+●	Developed a regressor model and gained an RMSE value of 0.3.
 
-●	Compared the results from the baseline model (Linear Regression) with 2 decisive models: Support Vector Regressor (SVR), and KNN. Gained a minimal root mean square error of 0.25 from SVR.
+
